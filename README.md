@@ -19,7 +19,7 @@ A simple Python application for downloading videos with a clean interface built 
 
 ```
 git clone https://github.com/your_username/video-downloader.git
-cd video-downloader-YT-
+cd video-downloader-YT
 ```
 
 ### 2. Install dependencies
