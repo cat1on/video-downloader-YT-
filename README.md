@@ -87,6 +87,14 @@ If you find this project useful, feel free to support me:
 
 ![Binance QR](./assets/binance_qr.png)
 
+OR
+
+USDT (Tether)
+Network: TRC20
+
+Address: TMpYLbgRDvoPyMXV9fb1N9ojQrkZYypdtZ
+⚠️ Please select TRC20 network
+
 ---
 
 📄 License
